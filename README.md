@@ -27,6 +27,21 @@ The result of my experiment is given below:
 |CNN|88.8|
 |Pretrained Resnet|94.4|
 
+`ELA Images batch`
+
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/43055935/202889344-ab00fe0b-1927-48e9-9d9b-b9eab7f3f9c4.png">
+
+`Decrease in Loss on a subset of dataset`
+
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/43055935/202889273-8a90fa7f-4ae8-4fff-b58a-5f000812de36.png">
+
+`Increase in F1 Score over on a subset of dataset`
+
+<img width="576" alt="image" src="https://user-images.githubusercontent.com/43055935/202889310-2c5fe55b-3a5a-41e0-9a49-fa9bb5d7c044.png">
+
+`Training `
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/43055935/202889379-33fab33a-69d0-4793-b927-2a1bddc0bffd.png">
 
 Paper: https://www.sciencedirect.com/topics/computer-science/image-manipulation
 
