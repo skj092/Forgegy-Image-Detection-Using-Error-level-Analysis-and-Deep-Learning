@@ -25,7 +25,7 @@ The result of my experiment is given below:
 |Architecture|Accuracy|
 |--------|------------|
 |CNN|88.8|
-|Pretrained Resnet|94.4|
+|Pretrained Resnet|96.2|
 
 `ELA Images batch`
 
