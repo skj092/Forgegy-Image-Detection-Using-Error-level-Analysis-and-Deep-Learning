@@ -41,7 +41,7 @@ The result of my experiment is given below:
 
 `Training `
 
-<img width="359" alt="image" src="https://user-images.githubusercontent.com/43055935/202889379-33fab33a-69d0-4793-b927-2a1bddc0bffd.png">
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/43055935/202889418-5f407379-0fdb-4014-a1a4-d81610eb4f33.png">
 
 Paper: https://www.sciencedirect.com/topics/computer-science/image-manipulation
 
