@@ -43,6 +43,6 @@ The result of my experiment is given below:
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/43055935/202889418-5f407379-0fdb-4014-a1a4-d81610eb4f33.png">
 
-Paper: https://www.sciencedirect.com/topics/computer-science/image-manipulation
+Paper: https://www.researchgate.net/publication/332561655_Image_forgery_detection_using_error_level_analysis_and_deep_learning
 
 
