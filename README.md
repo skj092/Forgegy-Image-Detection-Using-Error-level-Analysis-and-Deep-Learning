@@ -27,6 +27,10 @@ The result of my experiment is given below:
 |CNN|88.8|
 |Pretrained Resnet|96.2|
 
+`Classification Report`
+
+<img width="140" alt="image" src="https://user-images.githubusercontent.com/43055935/202889601-109aa2fb-7cb5-46b7-8945-c7f2a1bfedf3.png">
+
 `ELA Images batch`
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/43055935/202889344-ab00fe0b-1927-48e9-9d9b-b9eab7f3f9c4.png">
