@@ -47,6 +47,12 @@ The result of my experiment is given below:
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/43055935/202889418-5f407379-0fdb-4014-a1a4-d81610eb4f33.png">
 
+# prediction on single test image ( Resnet)
+python predict.py --image_path sample\Au_txt_30028.jpg --model_path resnet.pth
+
+# prediction with CNN
+python predict.py --image_path sample\Au_txt_30028.jpg --model_path cnn.pth
+
 Paper: https://www.researchgate.net/publication/332561655_Image_forgery_detection_using_error_level_analysis_and_deep_learning
 
 
